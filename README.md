@@ -1,1 +1,1 @@
-# swp-gruppen-projekt
+# infi-gruppen-projekt
